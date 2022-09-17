@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ronniebm/app-bienes-raices/issues"
   },
-  "homepage": "https://github.com/ronniebm/app-bienes-raices#readme"
+  "homepage": "https://github.com/ronniebm/app-bienes-raices#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
