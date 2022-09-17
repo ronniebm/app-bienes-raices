@@ -1,0 +1,26 @@
+{
+  "name": "app-bienes-raices",
+  "version": "1.0.0",
+  "description": "App Bienes Raices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronniebm/app-bienes-raices.git"
+  },
+  "keywords": [
+    "MVC",
+    "Pug",
+    "Tailwind",
+    "MySQL",
+    "Sequelize"
+  ],
+  "author": "Ronnie Barrios @ronniealberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronniebm/app-bienes-raices/issues"
+  },
+  "homepage": "https://github.com/ronniebm/app-bienes-raices#readme"
+}
