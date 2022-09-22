@@ -1,5 +1,8 @@
-div
-    if autenticated
-        h1 Usuario Autenticado
-    else
-        h1 Inicia sesión eee
+extends ../layout/index
+
+block contenido
+    div
+        if autenticated
+            h1 Usuario Autenticado
+        else
+            h2.text-center.text-2xl.font-extrabold Inicia sesión
