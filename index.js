@@ -7,6 +7,9 @@ const app = express();
 // settings to enable PUG
 app.set('view engine', 'pug')
 
+// Defining public folder
+app.use( express.static('public'))
+
 // Routing
 app.use('/auth', usuarioRoutes)
 

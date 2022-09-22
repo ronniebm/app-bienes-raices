@@ -1,6 +1,7 @@
 # npm ===================
 node_modules
 package-lock.json
+public/css/app.css
 *.log
 *.gz
 
